@@ -1,0 +1,10 @@
+C:\Users\Peafowl IT\Downloads\eLearning.WebAPI-master\eLearning.WebAPI-master\Learning.Data\bin\Debug\Learning.Data.dll.config
+C:\Users\Peafowl IT\Downloads\eLearning.WebAPI-master\eLearning.WebAPI-master\Learning.Data\bin\Debug\Learning.Data.dll
+C:\Users\Peafowl IT\Downloads\eLearning.WebAPI-master\eLearning.WebAPI-master\Learning.Data\bin\Debug\Learning.Data.pdb
+C:\Users\Peafowl IT\Downloads\eLearning.WebAPI-master\eLearning.WebAPI-master\Learning.Data\bin\Debug\EntityFramework.dll
+C:\Users\Peafowl IT\Downloads\eLearning.WebAPI-master\eLearning.WebAPI-master\Learning.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Peafowl IT\Downloads\eLearning.WebAPI-master\eLearning.WebAPI-master\Learning.Data\bin\Debug\EntityFramework.xml
+C:\Users\Peafowl IT\Downloads\eLearning.WebAPI-master\eLearning.WebAPI-master\Learning.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Peafowl IT\Downloads\eLearning.WebAPI-master\eLearning.WebAPI-master\Learning.Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Peafowl IT\Downloads\eLearning.WebAPI-master\eLearning.WebAPI-master\Learning.Data\obj\Debug\Learning.Data.dll
+C:\Users\Peafowl IT\Downloads\eLearning.WebAPI-master\eLearning.WebAPI-master\Learning.Data\obj\Debug\Learning.Data.pdb
